@@ -1,3 +1,6 @@
+/*Name : Nidhi Nandepalli
+  UIN:251P092
+  Class : Comp/D */
 #include <stdio.h>
 
 int main () {
@@ -42,3 +45,4 @@ break;
 }
 return 0;
 }
+
