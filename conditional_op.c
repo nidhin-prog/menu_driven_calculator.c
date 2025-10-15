@@ -1,3 +1,6 @@
+/* Name : Nidhi Nnadepalli
+  UIN : 251P092
+  Class : Comp / D */
 #include<stdio.h>
 int main(){
 
@@ -19,3 +22,4 @@ printf("Average = %.2d\n", average);
 (average >= 50) ? printf("Eligible for admission"): printf("Not eligible for admission");
 
 return 0;}
+
